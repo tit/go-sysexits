@@ -1,2 +1,3 @@
-# go-sysexits
+# sysexits
 Preferable exit codes for programs
+
