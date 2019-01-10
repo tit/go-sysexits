@@ -9,6 +9,7 @@ package main
 import "os"
 import "github.com/tit/go-sysexits"
 
-os.Exit(sysexits.ExUsage)
-
+func main(){
+  os.Exit(sysexits.ExUsage)
+}
 ```
